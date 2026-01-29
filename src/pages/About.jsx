@@ -7,7 +7,7 @@ function About() {
       <FeatureSection
         imageSrc="https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortCurly&accessoriesType=Prescription02&hairColor=Black&facialHairType=Blank&clotheType=BlazerSweater&eyeType=Happy&eyebrowType=DefaultNatural&mouthType=Twinkle&skinColor=Pale"
         title="About me : "
-        description="I am a Full Stack Developer and B.Tech student with a strong foundation in Core Java and the MERN Stack. As a fresher, I am passionate about building scalable web applications and solving real-world problems through code.."
+        description="I am a Full Stack Developer and B.Tech student with knowledge of building responsive websites . As a fresher, I am passionate about building scalable web applications and solving real-world problems through code just looking for an opportunity to showup my skills.."
         reverse={true}
       />
       <div>
