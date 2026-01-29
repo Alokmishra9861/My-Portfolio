@@ -1,0 +1,31 @@
+
+@import "tailwindcss";
+
+
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent; 
+}
+
+
+body {
+  @apply bg-white text-black dark:bg-gray-900 dark:text-white;
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+html, body, #root {
+  height: 100%;
+  background-color:gray 800/50;
+}
+
+
+
+
