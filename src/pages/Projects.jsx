@@ -35,7 +35,7 @@ function Projects() {
             <CardMedia
               component="img"
               height="340"
-              image="\public\assets\wanderlust.png"
+              image="/assets/wanderlust.png"
               className="shadow-lg"
               alt="green iguana"
             />
@@ -82,7 +82,7 @@ function Projects() {
             <CardMedia
               component="img"
               height="340"
-              image="\public\assets\zerodha.png"
+              image="/assets/zerodha.png"
               className="shadow-lg"
               alt="green iguana"
             />
@@ -134,7 +134,7 @@ function Projects() {
             <CardMedia
               component="img"
               height="340"
-              image="\public\assets\apnaVideoCall.png"
+              image="/assets/apnaVideoCall.png"
               className="shadow-lg"
               alt="green iguana"
             />

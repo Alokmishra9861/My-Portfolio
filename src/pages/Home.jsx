@@ -7,7 +7,7 @@ function Home() {
     <div className="gap-4 grid sm:grid-cols-2 p-16 mt-20">
       <div>
         <img
-          src="\public\assets\HeroImage.png"
+          src="/assets/HeroImage.png"
           alt="Workspace"
           className="rounded-full object-cover h-112.5"
         />
