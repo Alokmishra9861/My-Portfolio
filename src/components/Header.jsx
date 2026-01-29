@@ -1,5 +1,3 @@
-import Logo from "../assets/Logo";
-
 const Navbar = () => {
   // State to manage the menu opening/closing
   // 'isMenuOpen' is the variable (true/false)
