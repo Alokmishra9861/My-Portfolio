@@ -12,7 +12,7 @@ const Navbar = () => {
         <div className="container mx-auto px-4 h-20 flex items-center justify-between">
           {/* Logo */}
           <div className="font-bold text-xl text-black">
-            <img src={Logo} className="h-25" />
+            <img src="\public\assets\Logo.png" className="h-25" />
           </div>
 
           {/* Desktop Menu (Hidden on mobile) */}
