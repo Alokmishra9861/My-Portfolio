@@ -1,16 +1,52 @@
-# React + Vite
+A modern, responsive portfolio website built to showcase my journey as a Full-Stack Developer and Writer. This project serves as a central hub for my technical projects, coding philosophy, and creative works.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛠️ Tech Stack
+Frontend: React (Vite)
 
-Currently, two official plugins are available:
+Styling: Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Icons: Lucide React / React Icons
 
-## React Compiler
+Animations: Framer Motion (Recommended for that "wow" factor)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Deployment: Vercel / Netlify
 
-## Expanding the ESLint configuration
+✨ Key Features
+Responsive Design: Fully optimized for mobile, tablet, and desktop views.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Project Gallery: A curated list of MERN stack and Java applications.
+
+Poetry Corner: A dedicated section for my creative writing and Odia poetry.
+
+Contact Integration: Functional contact form for inquiries.
+
+Dark Mode: (Optional) Support for light and dark themes using Tailwind's darkMode.
+
+📂 Project Structure
+Plaintext
+src/
+├── assets/ # Images, logos, and static files
+├── components/ # Reusable UI components (Navbar, Footer, ProjectCard)
+├── pages/ # Main sections (Home, About, Projects, Poetry)
+├── data/ # Project and poetry metadata for easy updates
+├── App.jsx # Main application logic
+└── main.jsx # Entry point
+🚀 Getting Started
+Follow these steps to set up the project locally:
+
+1. Clone the repository
+   Bash
+   git clone https://github.com/your-username/your-portfolio-name.git
+   cd your-portfolio-name
+2. Install dependencies
+   Bash
+   npm install
+3. Start the development server
+   Bash
+   npm run dev
+4. Build for production
+   Bash
+   npm run build
+
+   ✍️ About Me
+   I am a Full-Stack Developer with a deep interest in the MERN stack and Core Java. Looking for internships and jobs
