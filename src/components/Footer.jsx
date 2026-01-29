@@ -1,12 +1,14 @@
 import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 
+import whiteLogo from "../assets/whiteLogo";
+
 function Footer() {
   return (
     <>
       <div className="grid sm:grid-cols-2 bg-black">
         <div>
-          <img src="\src\assets\whiteLogo.png" className="object-fill h-40" />
+          <img src={whiteLogo} className="object-fill h-40" />
         </div>
 
         <div className="flex justify-center h-12 mt-20 gap-2">

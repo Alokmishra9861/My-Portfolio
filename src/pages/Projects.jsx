@@ -16,6 +16,10 @@ import { FaReact } from "react-icons/fa";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { SiWebrtc } from "react-icons/si";
 
+import wanderlust from "../assets/wanderlust";
+import apnaVideoCall from "../assets/apnaVideoCall";
+import zerodha from "../assets/zerodha";
+
 function Projects() {
   return (
     <>
@@ -35,7 +39,7 @@ function Projects() {
             <CardMedia
               component="img"
               height="340"
-              image="\src\assets\wanderlust.img.png"
+              image={wanderlust}
               className="shadow-lg"
               alt="green iguana"
             />
@@ -82,7 +86,7 @@ function Projects() {
             <CardMedia
               component="img"
               height="340"
-              image="\src\assets\zerodha.img.png"
+              image={zerodha}
               className="shadow-lg"
               alt="green iguana"
             />
@@ -134,7 +138,7 @@ function Projects() {
             <CardMedia
               component="img"
               height="340"
-              image="\src\assets\apnaVideoCall.img.png"
+              image={apnaVideoCall}
               className="shadow-lg"
               alt="green iguana"
             />

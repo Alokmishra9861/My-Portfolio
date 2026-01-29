@@ -1,13 +1,14 @@
 import Button from "@mui/material/Button";
 import Stack from "@mui/material/Stack";
 import GitHubIcon from "@mui/icons-material/GitHub";
+import HeroImage from "../assets/HeroImage";
 
 function Home() {
   return (
     <div className="gap-4 grid sm:grid-cols-2 p-16 mt-20">
       <div>
         <img
-          src="\src\assets\Gemini_Generated_Image_poniviponiviponi.png"
+          src={HeroImage}
           alt="Workspace"
           className="rounded-full object-cover h-112.5"
         />
