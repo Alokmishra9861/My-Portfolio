@@ -1,3 +1,5 @@
+import { useState } from "react";
+
 const Navbar = () => {
   // State to manage the menu opening/closing
   // 'isMenuOpen' is the variable (true/false)
