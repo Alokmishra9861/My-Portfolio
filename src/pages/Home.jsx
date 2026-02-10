@@ -1,15 +1,13 @@
-import Button from "@mui/material/Button";
-import Stack from "@mui/material/Stack";
 import GitHubIcon from "@mui/icons-material/GitHub";
 
 function Home() {
   return (
-    <div className="gap-4 grid sm:grid-cols-2 p-16 mt-20">
-      <div>
+    <div className="gap-2 grid sm:grid-cols-2 p-15 mt-20">
+      <div className="grid-cols-6">
         <img
           src="/assets/HeroImage.png"
           alt="Workspace"
-          className="rounded-full object-cover h-112.5"
+          className="rounded-full object-cover h-112.5 "
         />
       </div>
 
