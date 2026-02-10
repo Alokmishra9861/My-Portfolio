@@ -21,4 +21,4 @@ Contact Integration: Functional contact form for inquiries.
 I am a Full-Stack Developer and a btech student with hands on experience in MERN stack and Core Java by building projects now looking for internships/jobs to showcase my skills.
 
 
-to check the site - https://my-portfolio-psi-eight-59.vercel.app/
+to check the site - www.alokkumarmishra.in  
